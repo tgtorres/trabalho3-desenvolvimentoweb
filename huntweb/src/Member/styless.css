@@ -1,0 +1,38 @@
+member-info{
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+};
+
+.member-info h1{
+    font-size: 32 px;
+}
+
+.member-info p{
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.member-form{
+    color: #666;
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.row-buttons{
+    padding: 10px;
+}
+
+.form-group{
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;
+}
